@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 @Mod(ExampleMod.MODID)
 public class ExampleMod
 {
-    public static final String MODID = "super_apple_mod";
+    public static final String MODID = "examplemod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, MODID);
