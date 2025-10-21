@@ -1,4 +1,6 @@
 {
-  "item.examplemod.super_apple": "Супер Яблоко"
+  "item.examplemod.super_apple": "Супер Яблоко",
+  "item.examplemod.house_builder": "Строитель Домов",
+  "item.examplemod.maze_builder": "Строитель Лабиринтов"
 }
 

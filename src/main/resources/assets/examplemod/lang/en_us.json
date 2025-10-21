@@ -1,4 +1,6 @@
 {
-  "item.examplemod.super_apple": "Super Apple"
+  "item.examplemod.super_apple": "Super Apple",
+  "item.examplemod.house_builder": "House Builder",
+  "item.examplemod.maze_builder": "Maze Builder"
 }
 
